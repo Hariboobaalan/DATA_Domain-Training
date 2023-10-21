@@ -1,201 +1,101 @@
-SupplierID,SupplierName,ContactName,Email,PhoneNumber,Address
-1,Wyatt Group,Roger Owen,mariawhitney@example.org,(967)926-3695x2881,"420 Kenneth Overpass
-North Dakotaville, DE 28486"
-2,Porter-Moss,Nancy Berg,kramerjesse@example.net,6003440807,"406 Nielsen Village Apt. 425
-Sanchezview, RI 97887"
-3,"Rodriguez, Rubio and Patton",Robert Dixon,mikayla94@example.net,(657)544-4061x38062,"317 Castaneda Causeway
-Tammytown, ND 41379"
-4,"Conley, Weaver and Johnson",Cynthia Mack,harrellselena@example.org,595-998-1350x98625,"81615 Cross Plain
-Port Sharon, NY 38711"
-5,"Lewis, Cortez and Maxwell",Mrs. Ashley Garrett,vangeric@example.com,(805)904-8791x405,"0846 Lowe Alley Suite 997
-Lake Jeffreyfurt, CA 83664"
-6,"Boyd, Montoya and Clark",Daniel Hall,tammy62@example.com,+1-731-475-9388,"515 Teresa Manor Suite 562
-North Tinaville, DC 63600"
-7,Castillo-Jimenez,Andrew Mcdaniel,steve58@example.net,(229)389-9431,"148 Rivera Harbor Suite 195
-Singletonhaven, NJ 65732"
-8,"Moore, Gordon and Hess",Kyle Smith,nadams@example.com,001-203-521-6403,"11613 Dominic Way
-North Whitneyville, WA 80646"
-9,"Harrison, Ross and Davis",Kaitlyn Hawkins,thompsoncassandra@example.net,001-820-972-9087x1513,"1840 Latoya Islands
-East Michael, OH 24588"
-10,Avila-Anderson,Daniel Donaldson,gwilliams@example.org,(960)433-8697,"920 Moody Field
-East Corey, ME 33608"
-11,"Andrews, Garcia and Santana",Michael Haynes,ian76@example.com,(783)998-9160x697,"45044 Sarah Camp Suite 890
-Snowborough, NV 19336"
-12,"Nielsen, Hurst and Kirk",Alisha Reyes,alan95@example.net,(396)260-1588,"204 Gregory Hill Suite 349
-North Georgeport, MA 79984"
-13,Johnson-Johnson,Jessica Ibarra,carolschmidt@example.net,9504468916,"4366 Thomas Cliffs Suite 368
-Michelemouth, CT 59512"
-14,Spence-Moran,Jennifer Patel,zjohnson@example.com,4762458795,"0276 Larsen Forest
-Pollardville, ID 31125"
-15,"Simon, Thompson and Williams",Robert Jackson,tracy66@example.net,625-415-4242,"2803 Katherine Prairie
-Cabreraburgh, WI 04853"
-16,Waters-Carter,Pamela Smith,andrewpugh@example.net,(265)204-1443,"6383 Claudia Lock
-East Antonio, HI 79574"
-17,"Garrett, Garcia and Williams",Jacob Goodman,smendez@example.net,001-535-980-1831x98076,"Unit 6225 Box 2141
-DPO AE 70144"
-18,Roberts-Lang,Erin Giles,lawrence01@example.com,+1-232-732-7129x96685,"6560 Shawn Plains
-Port Dylanside, TX 66172"
-19,Simmons LLC,Mark Haynes,lindseysandra@example.net,(807)209-2466,"055 Victoria Isle Apt. 786
-Andreaport, OR 23865"
-20,Stone Group,Patrick Vazquez,gina62@example.com,(372)824-9605x7600,"6638 Marie Ramp Suite 455
-Susanstad, OK 75152"
-21,Long-Mann,Jason Hardy,whernandez@example.net,391-242-9108,"371 Newman Plain Suite 457
-Monicashire, MA 47424"
-22,Buckley and Sons,Jose Cordova,linda78@example.com,(273)444-3000,"15207 Robert Plaza
-Andrewchester, WA 95749"
-23,"Weber, Villarreal and Gibson",Kelly Moreno,olivia46@example.net,+1-440-639-3160x871,"16008 Hopkins Mountain
-Cannonmouth, UT 54650"
-24,Sweeney-Lee,Benjamin Stanley,ricardoholder@example.org,001-582-367-4102x4725,"202 Brandon Heights
-Lake Timothyberg, MT 20504"
-25,"Shaw, Wright and Williams",Ashley Morrison,josephwest@example.net,+1-588-847-4872x434,"815 Warner Trail Apt. 991
-Bakerhaven, NE 88512"
-26,Schmidt PLC,Jake Scott,april39@example.net,(342)205-5037,"608 Dustin Avenue Apt. 740
-Wallerfurt, KS 71549"
-27,"Larson, Williams and Fletcher",Jennifer Lewis MD,stephaniestone@example.com,+1-253-423-5342x264,"016 Mason Plains Suite 190
-South Jon, MS 18306"
-28,"Owens, Bowers and Scott",Keith Holt,donnajohnson@example.net,+1-378-701-6075x9013,"937 Parker Manors
-Georgefort, NC 55721"
-29,Davidson-West,Kayla Butler,palmerjames@example.com,581.685.3328,"95243 Mejia Park
-Rubenside, WV 34361"
-30,Johnson Inc,Sean Lopez,josephharrison@example.net,(812)503-0382,"66959 Erica Stravenue Suite 335
-West Michael, DE 24133"
-31,"Armstrong, Li and Coleman",Nathan Gordon,linda69@example.com,001-606-243-0966x97311,"759 Michael Mountain
-North Vicki, PA 11265"
-32,Henderson Ltd,Victoria Madden,angelasmith@example.com,+1-489-683-0341x7144,"29848 Jennifer Station
-North Courtneyshire, NE 95496"
-33,Ball PLC,Erin Williams,wcarter@example.org,+1-483-801-1521x9484,"506 Scott Ways Apt. 339
-Port Traciton, MD 47963"
-34,Ramirez and Sons,Barbara Mitchell,ahill@example.com,464.496.5395,"Unit 8696 Box 8306
-DPO AA 05331"
-35,Lee-Hardy,Joshua Ruiz,barry58@example.com,(524)690-9950x60783,"8944 Lisa Trafficway
-Kimberlyland, WV 91475"
-36,Martinez-Rhodes,Karina Hudson,smithbrandon@example.org,001-465-938-4757x04076,"8413 Francisco Junction Apt. 600
-North Bryanview, MO 72219"
-37,"Li, Sanchez and Smith",Gary Evans,leonardcarol@example.com,+1-724-496-9421x95450,"PSC 2034, Box 9574
-APO AP 32374"
-38,"Walker, Barajas and Taylor",Brian Wright,diane33@example.com,879-634-1813x95301,"049 Boyd Island
-Woodshaven, NH 55813"
-39,Hooper-Reed,Courtney Aguirre,carolyn15@example.org,598-966-0936x5073,"0106 Jarvis River
-Port Timothychester, KY 50087"
-40,"Camacho, Henderson and Porter",Pamela Ross,jacobrichardson@example.com,935-895-1509,"633 Amber Inlet
-Clarkeview, GU 73416"
-41,Adkins Group,Adrian White,stephen69@example.org,224-366-2708,"PSC 2403, Box 0064
-APO AE 51508"
-42,Pratt Ltd,Stacy Andrews,jtodd@example.net,(633)369-8254x0085,"626 Wright Harbor Suite 682
-Lake Victoria, NE 95231"
-43,Jennings LLC,Antonio Watson,smithsabrina@example.org,954.529.1595x43756,"3238 Megan Haven
-New Jorge, MP 11951"
-44,"Black, Vincent and Hernandez",Daniel Contreras,kendra59@example.net,2055084657,"5665 Devin Run
-New Antonio, TX 95440"
-45,Kane-Torres,Denise Reese,frazierlauren@example.org,+1-626-847-2224x41362,"3771 Huang Mount Apt. 082
-West Ronald, DE 30330"
-46,Ramos and Sons,Marcus Atkins,patrick95@example.com,001-590-404-3546x81969,"682 Petersen Terrace Suite 323
-East Michelle, HI 02159"
-47,Evans PLC,Vanessa Campbell,jonathanhuang@example.net,6953692707,"895 Holland Ports Suite 549
-Lake Morganfort, MP 18082"
-48,Dawson-Bonilla,Peter Jackson,johntran@example.com,(355)261-1971x3662,"37340 Kenneth Light
-Davidland, OH 31718"
-49,Sanchez Ltd,Susan Taylor,tsingh@example.net,+1-708-534-6179x8643,"132 Natalie Tunnel Suite 232
-Higginsbury, NY 08743"
-50,"Pierce, Smith and Hardin",Stephanie Sexton,josephnorton@example.org,553.353.6758x22353,"1914 Jones Union Apt. 725
-Bradleybury, PW 68660"
-51,"Miller, Roberts and Cook",Debra James,valenciaamy@example.com,(561)468-9700,"5002 Jones Dale Suite 746
-West Carlostown, ID 38572"
-52,Marks PLC,Anthony Diaz,lisahernandez@example.org,001-468-705-9796x66312,"4748 Melissa Greens
-Veronicafort, PR 56388"
-53,"Dennis, Sullivan and Williams",Robert Franco,jerry15@example.org,769-760-5965x6034,"81423 Jeffrey Tunnel
-Riverastad, PW 26036"
-54,Williams and Sons,James Wilson,lcowan@example.net,(339)233-2960,"0068 Hawkins Lock Suite 439
-Hinesport, MS 76237"
-55,Rice-Mcneil,Linda Robinson,chenedwin@example.net,(314)564-5043x686,"5995 Emily Springs Apt. 339
-South Heatherchester, NC 99615"
-56,Lee and Sons,Micheal Martinez,kramerchristopher@example.com,+1-711-329-4487x88344,"1532 Haley Road Suite 859
-North Allisonview, IA 71276"
-57,Hinton and Sons,Wyatt Cruz,olivia55@example.org,+1-874-580-6586x84675,"922 Bernard Club Apt. 098
-South Karen, NE 98530"
-58,Hernandez and Sons,Jared Trevino,livingstonmegan@example.com,669.352.2072,"93088 Gary Port
-New Alec, AS 76597"
-59,Santiago-Carter,Steve Fernandez,iwillis@example.com,001-992-484-7345,"12000 Waller Wall Apt. 482
-Eileenberg, VT 23256"
-60,Garcia and Sons,Leonard Bates,rachelwright@example.org,+1-533-889-8091x4136,"854 Hill Ford
-Laurenstad, NE 09975"
-61,Ramos-Oconnell,Shane Castillo,rowlandjohn@example.org,2723446107,"281 Saunders Forge
-Port Caitlin, IL 77744"
-62,Watkins Group,David Marshall,vbrown@example.com,980-293-6319,"000 Jones Flat Apt. 108
-East Hannahbury, HI 76386"
-63,"Murray, Haynes and Mcintyre",Andrea Smith,brian91@example.com,001-873-447-9924x273,"77775 Smith Station Suite 974
-Ianland, MD 61407"
-64,Farmer PLC,Mark Fritz,thomasrobinson@example.net,272.953.2854x17014,"9714 Hernandez Ports Apt. 165
-Clarkview, AK 95803"
-65,"Jordan, Vincent and Hamilton",Amy Alvarado,dennishull@example.org,563-684-2594x366,"65989 Watson Island Suite 466
-Woodsside, MP 14082"
-66,Krause Ltd,Christopher Gregory,hickskathy@example.org,(818)535-1281x353,"86830 Davis Roads Apt. 003
-New Joshua, MO 02763"
-67,"Allen, Mendez and Ramirez",Cameron Davis,teresa96@example.org,(692)392-5486x0964,"Unit 8268 Box 9231
-DPO AE 01815"
-68,Craig PLC,William Scott,jason41@example.com,328-961-2734,"Unit 9706 Box 9472
-DPO AP 19705"
-69,White-Thomas,Jacob Clayton,christopher02@example.net,397.819.9717x9908,"8452 Johnson Brooks
-South Joseph, DC 98919"
-70,Burke Inc,Joseph Maxwell,jasonjohnson@example.com,(827)485-5079x46077,"5914 James Trail
-North Ashleyshire, AZ 76452"
-71,Rogers and Sons,Matthew Johnson,djackson@example.org,(741)657-4186,"229 Sydney Lake Suite 879
-Penningtonmouth, AS 29561"
-72,Huynh-King,Andrew Lamb,bryan40@example.org,381-973-6747x170,"35305 Jeffrey Haven
-Nicholsonberg, DE 50124"
-73,Valencia PLC,Heather Wilson,heatherbowman@example.com,+1-440-792-8901x4830,"231 Velez Parkway
-Davidview, AL 70540"
-74,"Wallace, Torres and Miller",Monica Gonzalez,amycombs@example.net,+1-967-349-2072,"929 Alexandria Center
-Bridgesmouth, MS 46753"
-75,Conrad LLC,Kathryn Rosales,njohnson@example.org,001-666-831-6706,"88954 Jennifer Forest
-Jonesside, VT 77535"
-76,"Wilson, Morris and Lewis",Steven Fisher,danielle99@example.com,(653)521-5449,"8236 Graves Branch
-New Maureenland, KY 49787"
-77,"Hughes, Lutz and Garcia",Janet Monroe,uhernandez@example.net,(443)266-0532x2906,"500 Solis Wells Apt. 071
-Joeburgh, MN 01672"
-78,Smith-King,Susan Castillo,kandrews@example.com,446.769.1766x64426,"77190 Bradley Shore Apt. 384
-East Amberview, MT 19965"
-79,Patterson Inc,Roger Black,dweber@example.org,2758293178,"262 Ayala Inlet
-South Christina, ID 54703"
-80,"Jackson, Lee and Leach",Gregory Jenkins,craigarmstrong@example.org,(388)537-5793x773,"3801 Serrano Junctions
-Sandraville, HI 45789"
-81,Solis-Fisher,Nicole Roberts,james12@example.com,818.356.0540,"PSC 9234, Box 9297
-APO AP 26952"
-82,Costa-Hernandez,Christine Richardson,pacecharles@example.org,259.206.6799x246,"5158 Larry Meadow Apt. 780
-East Amandaville, NY 63001"
-83,"Newman, Alvarado and Long",Jessica Lopez,james55@example.org,(859)759-4832,"12467 Henry Crescent Suite 352
-Robinport, FL 14859"
-84,Spears Inc,Robert Miller,danielanderson@example.com,(435)597-5788x871,"84089 Lisa Extension
-East Steven, HI 77698"
-85,Brown PLC,Ronnie Hamilton,mercadobrian@example.net,001-738-373-4812x016,"45917 Castaneda Springs
-Justinfort, MD 62074"
-86,Schneider-Harrison,Cheryl Carpenter,mharper@example.com,(397)660-5753x9852,"0336 Amanda Inlet Apt. 275
-West Marvinfort, CA 18621"
-87,"Mckinney, Galloway and Higgins",Sherry Werner,john09@example.com,366.287.8469x802,"242 Banks Mill
-South Christopher, NY 45755"
-88,White-Watts,Monica Davis,lisahicks@example.org,001-283-831-4930x61850,"7304 Hughes River
-Sarahbury, DE 00783"
-89,White-Hansen,Joe Sanford,qlindsey@example.org,446.344.8664,"225 Stanley Brooks
-Hayesfurt, PR 89817"
-90,"Johnson, Knight and Cantu",Angela Johnson,kevin24@example.com,001-606-968-2455x54281,"081 Michael Club
-Kennethborough, MT 55414"
-91,"Clark, Oliver and Vargas",Brenda Farrell,jason14@example.net,001-496-801-0197x63755,"66144 Lamb Branch Apt. 331
-Jamiefort, MT 03825"
-92,Porter-Everett,Maurice Williams,john83@example.org,+1-277-614-2435x706,"37130 Robert Flats
-Prattville, FM 99080"
-93,"Evans, Farmer and Suarez",Bryan Pennington,caseyelizabeth@example.org,702.993.6657x7883,"553 Collins Point Apt. 017
-North Brittanyland, TN 99911"
-94,"Alexander, Powers and Davis",Tracey Bond,mooreandrea@example.org,784-513-6907x9401,"Unit 5430 Box 9598
-DPO AE 54388"
-95,Fitzgerald PLC,Dr. Angel Burgess,jenniferwiley@example.org,535.562.2902,"51587 Corey Square
-West Donaldburgh, DE 29606"
-96,Herrera PLC,Craig Short,wilsonjonathan@example.net,(969)457-1777,"PSC 2132, Box 7653
-APO AP 59596"
-97,"Cooper, Pittman and Lewis",Jordan Bradford,murphyjohn@example.net,792-821-5307x755,"934 Smith Trace
-Lake David, WV 64938"
-98,Wright-Jackson,Jeffrey Alvarez,qsoto@example.net,(564)268-0888x6083,"296 Norman Well Suite 810
-Lake John, OK 52145"
-99,"Estrada, Osborne and Haley",Regina Yates,kennethnichols@example.com,458.668.3140x7718,"5500 Henderson Courts Apt. 004
-Ryanshire, DC 84462"
-100,"Johnson, Hampton and Gregory",Ryan Lee,carl79@example.com,4743929156,"7051 Ford Villages Suite 127
-South Samanthaview, NC 86102"
+SupplierID,SupplierName,SupplierAddress,SupplierEmail,ProductID,CategoryID,OrderID
+1,ABC Electronics,123 Main St,abc@example.com,1,1,1
+2,XYZ Components,456 Oak Ave,xyz@example.com,2,2,2
+3,Global Gadgets,789 Elm Rd,global@example.com,3,1,3
+4,Superior Supplies,321 Pine Lane,superior@example.com,4,2,4
+5,Quality Parts,654 Cedar Dr,quality@example.com,5,1,5
+6,Reliable Tech,987 Birch Blvd,reliable@example.com,6,2,6
+7,Swift Devices,210 Maple Court,swift@example.com,7,1,7
+8,Innovate Inc.,543 Willow Way,innovate@example.com,8,2,8
+9,Prime Electronics,876 Spruce Circle,prime@example.com,9,1,9
+10,Top Tech Ltd.,109 Fir Road,top@example.com,10,2,10
+11,ABC Electronics,123 Main St,abc@example.com,11,1,11
+12,XYZ Components,456 Oak Ave,xyz@example.com,12,2,12
+13,Global Gadgets,789 Elm Rd,global@example.com,13,1,13
+14,Superior Supplies,321 Pine Lane,superior@example.com,14,2,14
+15,Quality Parts,654 Cedar Dr,quality@example.com,15,1,15
+16,Reliable Tech,987 Birch Blvd,reliable@example.com,16,2,16
+17,Swift Devices,210 Maple Court,swift@example.com,17,1,17
+18,Innovate Inc.,543 Willow Way,innovate@example.com,18,2,18
+19,Prime Electronics,876 Spruce Circle,prime@example.com,19,1,19
+20,Top Tech Ltd.,109 Fir Road,top@example.com,20,2,20
+21,ABC Electronics,123 Main St,abc@example.com,21,1,21
+22,XYZ Components,456 Oak Ave,xyz@example.com,22,2,22
+23,Global Gadgets,789 Elm Rd,global@example.com,23,1,23
+24,Superior Supplies,321 Pine Lane,superior@example.com,24,2,24
+25,Quality Parts,654 Cedar Dr,quality@example.com,25,1,25
+26,Reliable Tech,987 Birch Blvd,reliable@example.com,26,2,26
+27,Swift Devices,210 Maple Court,swift@example.com,27,1,27
+28,Innovate Inc.,543 Willow Way,innovate@example.com,28,2,28
+29,Prime Electronics,876 Spruce Circle,prime@example.com,29,1,29
+30,Top Tech Ltd.,109 Fir Road,top@example.com,30,2,30
+31,ABC Electronics,123 Main St,abc@example.com,31,1,31
+32,XYZ Components,456 Oak Ave,xyz@example.com,32,2,32
+33,Global Gadgets,789 Elm Rd,global@example.com,33,1,33
+34,Superior Supplies,321 Pine Lane,superior@example.com,34,2,34
+35,Quality Parts,654 Cedar Dr,quality@example.com,35,1,35
+36,Reliable Tech,987 Birch Blvd,reliable@example.com,36,2,36
+37,Swift Devices,210 Maple Court,swift@example.com,37,1,37
+38,Innovate Inc.,543 Willow Way,innovate@example.com,38,2,38
+39,Prime Electronics,876 Spruce Circle,prime@example.com,39,1,39
+40,Top Tech Ltd.,109 Fir Road,top@example.com,40,2,40
+41,ABC Electronics,123 Main St,abc@example.com,41,1,41
+42,XYZ Components,456 Oak Ave,xyz@example.com,42,2,42
+43,Global Gadgets,789 Elm Rd,global@example.com,43,1,43
+44,Superior Supplies,321 Pine Lane,superior@example.com,44,2,44
+45,Quality Parts,654 Cedar Dr,quality@example.com,45,1,45
+46,Reliable Tech,987 Birch Blvd,reliable@example.com,46,2,46
+47,Swift Devices,210 Maple Court,swift@example.com,47,1,47
+48,Innovate Inc.,543 Willow Way,innovate@example.com,48,2,48
+49,Prime Electronics,876 Spruce Circle,prime@example.com,49,1,49
+50,Top Tech Ltd.,109 Fir Road,top@example.com,50,2,50
+51,ABC Electronics,123 Main St,abc@example.com,51,1,51
+52,XYZ Components,456 Oak Ave,xyz@example.com,52,2,52
+53,Global Gadgets,789 Elm Rd,global@example.com,53,1,53
+54,Superior Supplies,321 Pine Lane,superior@example.com,54,2,54
+55,Quality Parts,654 Cedar Dr,quality@example.com,55,1,55
+56,Reliable Tech,987 Birch Blvd,reliable@example.com,56,2,56
+57,Swift Devices,210 Maple Court,swift@example.com,57,1,57
+58,Innovate Inc.,543 Willow Way,innovate@example.com,58,2,58
+59,Prime Electronics,876 Spruce Circle,prime@example.com,59,1,59
+60,Top Tech Ltd.,109 Fir Road,top@example.com,60,2,60
+61,ABC Electronics,123 Main St,abc@example.com,61,1,61
+62,XYZ Components,456 Oak Ave,xyz@example.com,62,2,62
+63,Global Gadgets,789 Elm Rd,global@example.com,63,1,63
+64,Superior Supplies,321 Pine Lane,superior@example.com,64,2,64
+65,Quality Parts,654 Cedar Dr,quality@example.com,65,1,65
+66,Reliable Tech,987 Birch Blvd,reliable@example.com,66,2,66
+67,Swift Devices,210 Maple Court,swift@example.com,67,1,67
+68,Innovate Inc.,543 Willow Way,innovate@example.com,68,2,68
+69,Prime Electronics,876 Spruce Circle,prime@example.com,69,1,69
+70,Top Tech Ltd.,109 Fir Road,top@example.com,70,2,70
+71,ABC Electronics,123 Main St,abc@example.com,71,1,71
+72,XYZ Components,456 Oak Ave,xyz@example.com,72,2,72
+73,Global Gadgets,789 Elm Rd,global@example.com,73,1,73
+74,Superior Supplies,321 Pine Lane,superior@example.com,74,2,74
+75,Quality Parts,654 Cedar Dr,quality@example.com,75,1,75
+76,Reliable Tech,987 Birch Blvd,reliable@example.com,76,2,76
+77,Swift Devices,210 Maple Court,swift@example.com,77,1,77
+78,Innovate Inc.,543 Willow Way,innovate@example.com,78,2,78
+79,Prime Electronics,876 Spruce Circle,prime@example.com,79,1,79
+80,Top Tech Ltd.,109 Fir Road,top@example.com,80,2,80
+81,ABC Electronics,123 Main St,abc@example.com,81,1,81
+82,XYZ Components,456 Oak Ave,xyz@example.com,82,2,82
+83,Global Gadgets,789 Elm Rd,global@example.com,83,1,83
+84,Superior Supplies,321 Pine Lane,superior@example.com,84,2,84
+85,Quality Parts,654 Cedar Dr,quality@example.com,85,1,85
+86,Reliable Tech,987 Birch Blvd,reliable@example.com,86,2,86
+87,Swift Devices,210 Maple Court,swift@example.com,87,1,87
+88,Innovate Inc.,543 Willow Way,innovate@example.com,88,2,88
+89,Prime Electronics,876 Spruce Circle,prime@example.com,89,1,89
+90,Top Tech Ltd.,109 Fir Road,top@example.com,90,2,90
+91,ABC Electronics,123 Main St,abc@example.com,91,1,91
+92,XYZ Components,456 Oak Ave,xyz@example.com,92,2,92
+93,Global Gadgets,789 Elm Rd,global@example.com,93,1,93
+94,Superior Supplies,321 Pine Lane,superior@example.com,94,2,94
+95,Quality Parts,654 Cedar Dr,quality@example.com,95,1,95
+96,Reliable Tech,987 Birch Blvd,reliable@example.com,96,2,96
+97,Swift Devices,210 Maple Court,swift@example.com,97,1,97
+98,Innovate Inc.,543 Willow Way,innovate@example.com,98,2,98
+99,Prime Electronics,876 Spruce Circle,prime@example.com,99,1,99
+100,Top Tech Ltd.,109 Fir Road,top@example.com,100,2,100

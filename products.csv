@@ -1,4 +1,4 @@
-ProductID,ProductName,Category,Price,StockQuantity,Description,SupplierID
+ProductID,ProductName,CategoryID,Price,StockQuantity,Description,SupplierID
 1,Widget A,Electronics,49.99,100,High-quality widget for all your needs,1
 2,Widget B,Electronics,39.99,75,Affordable widget for everyday use,2
 3,Widget C,Home & Garden,29.99,50,Durable widget for outdoor use,1

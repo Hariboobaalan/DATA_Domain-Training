@@ -1,4 +1,4 @@
-PaymentTypeID,PaymentTypeName,PaymentDescription
+PaymentMethodID,PaymentMethodName,PaymentDescription
 1,Credit Card,Credit card payment
 2,Debit Card,Debit card payment
 3,PayPal,PayPal online payment

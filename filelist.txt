@@ -1,0 +1,8 @@
+categories.csv
+products.csv
+reviews.csv
+orders.csv
+payment_methods.csv
+suppliers_2023-10-31 00:34:01.660 -0700.csv
+customers_2023-10-31 00:34:01.660 -0700.csv
+order_details.csv
